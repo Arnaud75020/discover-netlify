@@ -8,5 +8,5 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [compassionate-tereshkova-c8464f
+* Link to the website deployed on Netlify : [https://compassionate-tereshkova-c8464f.netlify.app
 ]()
